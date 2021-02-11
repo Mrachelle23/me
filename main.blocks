@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Vf!{m1~I8I=Kozfohs_]">me</variable></variables><block type="pxt-on-start" x="20" y="20"/><block type="device_forever" x="225" y="20"/><block type="variables_get" disabled="true" x="121" y="167"><field name="VAR" id="Vf!{m1~I8I=Kozfohs_]">me</field></block></xml>
